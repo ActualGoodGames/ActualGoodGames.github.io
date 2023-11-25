@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: "Consolas", sans-serif;
+    }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+  }  
+
+  h3 {
+    color: rgb(0, 0, 0);
+  }  
+
+  h2 {
+    color: rgb(0, 0, 0);
+  }  
+
+  a {
+    color:rgb(0, 240, 253)
+  }
+
+footer {
+    background-color: rgb(238, 238, 238);
+    height: 10%;
+    position: bottom;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-family: "Georgia", serif;
+    }
+
+header {
+    background-color: rgb(238, 238, 238);
+    height: 15%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-family: "consolas", sans-serif;
+    }
